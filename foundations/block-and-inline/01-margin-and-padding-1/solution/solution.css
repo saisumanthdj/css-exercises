@@ -2,6 +2,15 @@ body {
   max-width: 600px;
   margin: 0 auto;
 }
+/* styles.css */
+
+.alert {
+  color: red;
+}
+
+.warning {
+  color: yellow;
+}
 
 .one {
   background: pink;
